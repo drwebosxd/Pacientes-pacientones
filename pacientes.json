@@ -1,0 +1,30 @@
+[
+    {
+        "nombre": "Carlos López",
+        "peso": 72,
+        "altura": 1.75,
+        "gordura": 18,
+        "imc": 23.5
+    },
+    {
+        "nombre": "María Sánchez",
+        "peso": 65,
+        "altura": 1.60,
+        "gordura": 22,
+        "imc": 25.4
+    },
+    {
+        "nombre": "José Ramírez",
+        "peso": 80,
+        "altura": 1.82,
+        "gordura": 20,
+        "imc": 24.1
+    },
+    {
+        "nombre": "Ana Torres",
+        "peso": 55,
+        "altura": 1.55,
+        "gordura": 19,
+        "imc": 22.9
+    }
+]
