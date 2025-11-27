@@ -70,7 +70,7 @@ var botonBuscar = document.querySelector("#buscar-paciente");
 botonBuscar.addEventListener("click", function(){
 
     var xhr = new XMLHttpRequest();
-    xhr.open("GET", "https://github.com/drwebosxd/Pacientes-pacientones/blob/main/pacientes.json");
+    xhr.open("GET", "https://raw.githubusercontent.com/drwebosxd/Pacientes-pacientones/refs/heads/main/pacientes.json");
 
     xhr.addEventListener("load", function(){
         if (xhr.status == 200){
@@ -92,4 +92,5 @@ botonBuscar.addEventListener("click", function(){
 
 </body>
 </html>
+
 
